@@ -37,4 +37,4 @@ HTML, CSS, JavaScript, Python, Linguagem C, Git, GitHub, Microsoft Azure
 - LinkedIn: [linkedin.com/in/zuhenrique](https://www.linkedin.com/in/zuhenrique/)
 - GitHub: [github.com/ZuHenrique](https://github.com/ZuHenrique)
 - Instagram: [instagram.com/zu.henrique](https://www.instagram.com/zu.henrique)
-- Youtube: [youtube.com/ZUHPROGRAMADOR]
+- Youtube: youtube.com/ZUHPROGRAMADOR
