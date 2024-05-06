@@ -8,7 +8,7 @@ E-mail: zuhenrique@outlook.com
 
 ## **Tecnologias**
 
-HTML, CSS, JavaScript, Python, Linguagem C, Git, GitHub, Microsoft Azure  
+Software Developer | Python | Ciência de Dados | Machine Learning | Inteligência Artificial | Selenium | Automação |
 
 ## **Formação Acadêmica**
 
